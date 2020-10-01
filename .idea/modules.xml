@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/googlecalendar.iml" filepath="$PROJECT_DIR$/.idea/googlecalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/googlecalendar1.iml" filepath="$PROJECT_DIR$/.idea/modules/googlecalendar1.iml" group="googlecalendar1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/googlecalendar1-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/googlecalendar1-app.iml" group="googlecalendar1/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/googlecalendar1-library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/googlecalendar1-library.iml" group="googlecalendar1/library" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
